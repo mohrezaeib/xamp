@@ -1,0 +1,24 @@
+*** Changelog - Sanat WordPress Theme ***
+
+
+2018.09.03 - version 1.1.2
+--------------------------------
+1) Services sidebar issue fixed
+2) Comming soon issues fixed
+3) Header selection issue fixed
+
+2018.08.18 - version 1.1.1
+--------------------------------
+1) Revolution Slider Issue Fixed
+2) pagination Styling Issue Fixed
+
+2018.08.17 - version 1.1
+--------------------------------
+1) Revolution Slider is updated
+2) woocommerce is updated
+3) some styling issues fixed
+
+
+2018.08.09 - version 1.0
+--------------------------------
+* First release!
