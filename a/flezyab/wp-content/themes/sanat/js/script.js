@@ -496,5 +496,6 @@
 		handlePreloader();
 		enableMasonry();
 	});	
+/*===========================*/
 
 })(window.jQuery);

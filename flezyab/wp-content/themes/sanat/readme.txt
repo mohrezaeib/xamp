@@ -1,1 +1,0 @@
-*** Changelog - Sanat WordPress Theme ***
